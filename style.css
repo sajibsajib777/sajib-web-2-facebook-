@@ -1,0 +1,208 @@
+body{
+	margin: 0;
+	padding: 0;
+	
+}
+.heading{
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	/*border: 2px solid blue;*/
+	height: 85px;
+	background: #33619E;
+}
+.logo{
+	float: left;
+	/*border: 2px solid blue;*/
+	width: 59%;
+	height: 100px;
+	height: 100px;
+}
+.logo p{
+	padding-left: 180px;
+	color: white;
+	font-size: 40px;
+	margin-top: 30px;
+	font-family: sans-serif;
+}
+.log-in{
+	/*border: 2px solid red;*/
+	float: right;
+	width: 40%;
+}
+table{
+	/*border: 2px solid blue;*/
+	padding-top: 10px;
+	padding-left: 20px;
+}
+table a{
+	color: white;
+	font-family: sans-serif;
+	font-size: 12px;
+	text-decoration: none;
+}
+table a:hover{
+	text-decoration: underline;
+}
+table label{
+	color: white;
+	font-family: sans-serif;
+	font-size: 12px;
+}
+table button{
+	size: 50px;
+	color: white;
+	cursor: pointer;
+	background:   #3366CC;
+	border:1px solid #3366CC;
+	font-family: sans-serif;
+	border-radius: 3px;
+}
+.service{
+	/*border: 2px solid blue;*/
+	overflow: hidden;
+	background:  #D9E8D4;
+}
+.image{
+	/*border: 2px solid blue;*/
+	width: 59%;
+	float: left;
+}
+.sign-up{
+	/*border: 2px solid blue;*/
+	width: 40%;
+	float: right;
+	height: 100px;
+	
+}
+.Create-account h1{
+	font-family: sans-serif;
+}
+.Create-account p{
+	font-family: sans-serif;
+}
+.image-image{
+	height:90px;
+	/*border: 2px solid blue;*/
+}
+.image-image p{
+	padding-left: 180px;
+	font-size: 25px;
+	font-family: sans-serif;
+}
+.image-para{
+	height: 455px;
+	/*border: 2px solid blue;*/
+	padding-left: 200px;
+}
+
+.full-name{
+	overflow: hidden;
+	margin-bottom: 10px;
+	margin-top: 40px;
+	/*border: 2px solid blue;*/
+}
+.f-name{
+	float: left;
+	/*border: 2px solid blue;*/
+	width: 40%;
+}
+.s-name{
+	float:left;
+	width: 40%;
+	
+}
+.e-mail{
+	margin-top: 10px;
+}
+.r-email{
+	margin-top: 10px;
+}
+.password{
+	margin-top: 10px;
+}
+.f-name input{
+	width: 90%;
+	padding: 10px;
+	border-radius: 5px;
+	border:none;
+}
+.s-name input{
+	width: 90%;
+	padding: 10px;
+	margin-left: 10px;
+	border-radius: 5px;
+	border:none;
+}
+.e-email input{
+	width: 78%;
+	padding: 10px;
+	border-radius: 5px;
+	border:none;
+}
+.r-email input{
+	width: 78%;
+	padding: 10px;
+	border-radius: 5px;
+	border:none;
+}
+.password input{
+	width: 78%;
+	padding: 10px;
+	border-radius: 5px;
+	border:none;
+}
+.birth{
+	margin-top: 30px;
+	font-family: sans-serif;
+	font-size: 18px;
+}
+.day{
+	overflow: hidden;
+}
+.select{
+	margin-top: 10px;
+	float: left;
+}
+.why{
+	margin-top: 10px;
+	float: left;
+	margin-left: 10px;
+	font-family: sans-serif;
+	font-size: 13px;
+
+}
+.why a{
+	text-decoration: none;	
+}
+.why a:hover{
+	text-decoration: underline;
+}
+.select select{
+	padding: 5px;
+}
+.sex{
+	padding: 15px;
+	/*border: 2px solid blue;*/
+	width: 40%;
+	font-family: sans-serif;
+}
+#button{
+	margin-top: 10px;
+	margin-bottom: 20px;
+
+}
+#button button{
+	padding: 8px;
+	padding-right: 38px;
+	padding-left: 38px;
+	border:none;
+	cursor: pointer;
+	color: white;
+	background: #4A9E33;
+	font-weight: bold;
+	font-size: 16px;
+	font-family: sans-serif;
+	border-radius: 5px;
+
+}
